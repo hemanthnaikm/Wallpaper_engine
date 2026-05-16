@@ -23,7 +23,8 @@ Real-Time Integration Engine: A multi-threaded system that uses native OS parame
 Seamless Automation: Allows for high-frequency, real-time wallpaper rotation (every 10–20 seconds) without requiring manual system setting adjustments. 
 Thematic Accessibility: Provides a centralized, category-driven interface that makes it easy to browse and select backgrounds from diverse themes like Games, Anime, and Planets. 
 
- 
+ <img width="805" height="137" alt="image" src="https://github.com/user-attachments/assets/65fb94d5-e25d-4b8d-a5c2-24837beba7b9" />
+
 # Disadvantages 
 
 Operating System Dependency: Since the application interacts with specific system-level parameters, it is primarily restricted to the Windows environment to function correctly. 
@@ -50,7 +51,10 @@ System-Level Integration
 Efficient Image Management 
 Standalone Desktop Control 
 
+<img width="927" height="666" alt="image" src="https://github.com/user-attachments/assets/c6b23c19-080f-411c-ab08-e23127537ef0" />
 
 # Conclusion 
 
 Wallpaper Engine successfully demonstrates a standalone Java application that automates real-time desktop customization. By integrating background multi-threading with native OS parameters, it overcomes the limitations of standard wallpaper settings for high-frequency rotations. This project provides an efficient, category-driven interface for managing diverse visual themes like Games, Anime, and Planets, ensuring a seamless and dynamic user experience. 
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5a3ff906-1a4f-4248-b275-dc4208fe98bd" />
